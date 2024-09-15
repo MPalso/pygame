@@ -8,7 +8,7 @@ width = 600
 height = 300
 screen = pygame.display.set_mode((width, height))
 
-#Hlavny herny cyklus (aby sa okno stale vykreslovalo pokial ho nezavriem)
+#Hlavny herny cyklus (aby sa okno stale vykreslovalo pokial ho nezavriem).
 lets_continue = True
 
 while lets_continue:
